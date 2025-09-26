@@ -2,6 +2,7 @@
 
 Sistema operativo Linux y WSL
 La shell permite ejecutar comandos en foreground, manejar fallos, soportar pipes y miprof y tiempos de ejecución
+
 Dentro de la carpeta del proyecto, ejecutar: gcc -Wall -Wextra -o simple_shell simple_unix_shell.c
 
  ./simple_shell
